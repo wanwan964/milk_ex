@@ -2,3 +2,10 @@ body {
   background-color: pink;  
     
 }
+.class1{
+  text-align: left;
+}
+div,gazo-box{
+  float: left;
+  padding-right: 20px;
+}
