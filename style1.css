@@ -1,0 +1,37 @@
+.slider{
+    width: 540px;
+    margin:20px auto 0;
+    padding:0;
+}
+.img_box{
+    width: 700px;
+    height:500px;
+    margin:0 auto;
+
+}
+.button{
+    width: 540px;
+    margin-top:  auto;
+    
+    display:flex;
+    justify-content:left;
+
+}
+#prev,
+#next{
+    margin:8px 30px;
+    width: 18px;
+    height:18px;
+    text-align:center;
+    line-height:18px;
+    border-radius:50%;
+    user-select:none;
+    cursor:pointer;
+}
+#page{
+    height:18px;
+    line-height:18px;
+    margin:8px 0;
+    user-select:none;
+    
+}
