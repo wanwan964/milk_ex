@@ -1,6 +1,6 @@
 'use strict';
 {
-    const images=['gu1.jpg','kojin.jpg',]
+    const images=['gu1.jpg','kojin.JPG',]
     const slideImg = document.getElementById('slide_img');
     const prev = document.getElementById('prev');
     const page = document.getElementById('pabe');
