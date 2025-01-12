@@ -1,6 +1,6 @@
 'use strict';
 {
-    const images=['oka2024.png','kojin1123.png',]
+    const images=['kaikou2025.png','kojin1123.png',]
     const slideImg = document.getElementById('slide_img');
     const prev = document.getElementById('prev');
     const page = document.getElementById('pabe');
